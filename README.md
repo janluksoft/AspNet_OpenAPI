@@ -39,7 +39,7 @@ Therefore, the use of the OpenAPI specification by the developer takes place in 
 
 * OpenAPI - a specification describing REST API interfaces.
 * Swagger - creates an OpenAPI document (swagger.json) based on the specification;
-* NSwag - – based on swagger.json creates API client code class in C# or TypeScript;
+* NSwag - based on swagger.json creates API client code class in C# or TypeScript;
 * User uses API client to communicate with WebAPI server;
 * Postman, Swagger Inspector test correctness of WebAPI server operation;
 
